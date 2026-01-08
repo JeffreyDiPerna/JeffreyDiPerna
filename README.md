@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third-year computer engineering student with an interest in AI and its intersection with the healthcare and financial sectors.<br><br>I’m currently working on:<br>- Building a RAG system that generates clinician‑approved post‑surgical instructions by integrating hospital data, scientific literature, and patient‑specific delivery workflows<br>- Developing a resume‑optimization platform that enhances ATS alignment, streamlines editing workflows, and supports campus‑wide use through integration with Queen’s Career Services
+I am a third-year computer engineering student with an interest in AI and its intersection with the healthcare and financial sectors.I’m currently working on:<br><br>- Building a RAG system that generates clinician‑approved post‑surgical instructions by integrating hospital data, scientific literature, and patient‑specific delivery workflows<br><br>- Developing a resume‑optimization platform that enhances ATS alignment, streamlines editing workflows, and supports campus‑wide use through integration with Queen’s Career Services
 
 
 ## 🌐 Socials:
