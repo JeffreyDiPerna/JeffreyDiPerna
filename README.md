@@ -1,6 +1,5 @@
 # 💫 About Me:
-Computer Engineering @ Queen's University
-Enterprise Portfolio Analyst Intern @ Geotab
+Computer Engineering @ Queen's University | Enterprise Portfolio Analyst Intern @ Geotab
 
 
 ## 🌐 Socials:
